@@ -3,7 +3,7 @@
 
 ## Direct link
 
-[partyvaper.github.com/autotile-converter](https://partyvaper.github.com/autotile-converter "partyvaper.github.com/autotile-converter")
+[partyvaper.github.io/autotile-converter](https://partyvaper.github.io/autotile-converter "partyvaper.github.io/autotile-converter")
 
 
 ## Guide
