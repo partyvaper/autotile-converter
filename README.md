@@ -12,6 +12,20 @@
 
 If you have combined lots of different tile modes (usually copy modes) in one sprite-sheet, it can have weird layout issues. For most use cases it should work fine.
 
+<details>
+<summary>See a possible solution for layout issues that can happen</summary>
+  
+See the example below, if you look at the right side, tiles on right side shifted up (due to nothing above them), but we would like them in same height as the left one, to keep the input layout.
+
+![https://i.imgur.com/0WiOKhS.png](https://i.imgur.com/0WiOKhS.png "example 1")
+
+
+On next example you can see - if you create just empty tiles similar to left ones, but more to right, this will give us the padded space needed for tiles to match the source desired layout.
+
+![https://i.imgur.com/se5f932.png](https://i.imgur.com/se5f932.png "example 2")
+
+</details>
+
 ## Guide
 
 1. Open tool,
