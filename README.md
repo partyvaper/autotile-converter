@@ -6,7 +6,7 @@
 
 ## Preview
 
-![https://i.imgur.com/wkMlSl7.png](https://i.imgur.com/wkMlSl7.png "preview")
+![https://i.imgur.com/in70POZ.png](https://i.imgur.com/in70POZ.png "preview")
 
 ## Known issues
 
